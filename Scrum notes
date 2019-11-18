@@ -92,12 +92,16 @@ advantage:
    facilitate meetings or wherever necessary
    helps team to be more productive
    helps the product owner maximise r.o.i
+   responsible for promoting and supporting scrum  as defined in the scrum guide, scrum masters do this by helping everyone understand scrum theory, pratices, rules, and values
+   servent leader
    
    product owner:
       responsible for creating the product backlog
+      maintane the backlog
       prioritise requirements based on business value
       make decisions to maximise r.o.i
       make trade-offs to maximise product value
+      is the only one that can cancel a sprint
     
     development team
       build potentially relasable product increment
@@ -106,4 +110,75 @@ advantage:
       expert in their field
       optimum team size is 3 to 9
       
-      
+    definition of done is set by the scrum team, 
+    
+    
+    ##########scrum events#######
+    
+   sprint is limited by one month
+   
+   sprint planning Meeting:
+   
+   Team plan the work for the sprint
+   8 hours for a one month spring
+   4 hours meeting for a two week sprint
+   2 topics : "the what" and "the how"
+   product owner presents the list of features he would like the team to delever
+   the development team can ask questions
+   The development team picks the features they think they can commit to in the sprint
+   the team breaks the features up into tasks and estimates them.
+   work out how much time the development team has (capacity)
+   
+   Daily Scrum:
+   
+   is a daily meeting lasting 15 minutes held in the same place
+   each development team member anwsers the following questions
+   what did i do yesterday that helped the development Team meet the sprint goal?
+   what will i do today to help the development team meet the sprint goal?
+   do i see any impediment that prevents me or the development team from meeting the sprint goal?
+   the team  sprint backlog and sprint burn down should be visible  
+   task of the scrum master to keep things short & sweet
+   the development team alone are responsible for having daily scrum
+   
+   sprint review:
+   is held at the end of each sprint
+   and allows the team to demo the incement to the product owner and the stakeholders
+   the stakeholders ask questions and make suggestions to the product owner.
+   the product owner takes notes to adapt the backlog
+   
+   sprint retrospective:
+   this is a meeting held after the sprint review and before the next sprint
+   each team member anwsers the question:
+   what worked this sprint?
+   what could be improved in the next sprint?
+   
+   release planning meeting:
+   not officially a scrum event but often used
+   product owner presents a subset of the features from the backlog 
+   and the team to agree what looks feasable to deliver in terms of scope or release date
+   
+   set time for a task for maximum productivity and deeliverability
+   trying to minimize the need for other meetings
+   
+   
+   
+ #####
+ a number of features a product owner would like to release is reffered to as a release backlog
+ monitoring the release backlog is a burndown
+ 
+    burndown shows the number of story points and the amount of sprints remaining till launch
+    vertical axes shows hours or number of tasks and is related to number of hours or tasks remaining in the sprint
+    horizontal axes shows the number of days in the sprint
+    
+    sprint backlog is the set of items the development team will work on in a sprint to deliver a increment
+    consisting of features, tasks and their estimates
+    
+    releasable product increment
+    functionality delivered by the team each sprint
+    meets definition of done ( high quality)
+ 
+    scrum's artifacts represent work or value to provide transparency and opportunities for inspection and adaptation. artifact defined by scrum are 
+    specifically designed to maximize transparency of key information so that everybody has the same understanding of the artifact. 
+ 
+   
+   
