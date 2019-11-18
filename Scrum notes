@@ -140,6 +140,9 @@ advantage:
    the team  sprint backlog and sprint burn down should be visible  
    task of the scrum master to keep things short & sweet
    the development team alone are responsible for having daily scrum
+   there can be created a stand up norms of norms created by the development team took keep the meeting organised. 
+        1 person speaking at the time
+        2 be on time
    
    sprint review:
    is held at the end of each sprint
@@ -183,6 +186,7 @@ advantage:
     specifically designed to maximize transparency of key information so that everybody has the same understanding of the artifact. 
  
     product backlog
+    shows priority of work to be "done"
     the product owner is responsible for the product backlog, including, availability, and ordering. 
     producht backlog refinement is the act of adding detail, estimates, and order to items in the product backlog.
     refining make sure the items are "ready" for planning
@@ -192,6 +196,7 @@ advantage:
     it doesnt have to be done by the release burndown. the product owner can also use other methodes
     
     the sprint backlog
+    shows plan for current sprint
     is the set product backlog items selected for the sprint, plus a plan for delivering the product increment and realizing the sprint goal
     consists of stories + the tasks      plus a plan for delicering a product increment and realizing the sprint goal.
     only the development team can change its sprint backlog during a sprint. they negotiate this with the product owner and work togheter.
