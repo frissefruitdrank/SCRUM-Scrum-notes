@@ -102,6 +102,7 @@ advantage:
       make decisions to maximise r.o.i
       make trade-offs to maximise product value
       is the only one that can cancel a sprint
+      the product owner compares this amount with work remaining at previous sprint reviews to assess progress toward completing work by the desired time for the goal. this transparent to all stakeholders.
     
     development team
       build potentially relasable product increment
@@ -166,8 +167,9 @@ advantage:
  a number of features a product owner would like to release is reffered to as a release backlog
  monitoring the release backlog is a burndown
  
-    burndown shows the number of story points and the amount of sprints remaining till launch
-    vertical axes shows hours or number of tasks and is related to number of hours or tasks remaining in the sprint
+    release burndown shows the number of story points and the amount of sprints remaining till launch
+    
+    sprint burndown: vertical axes shows hours or number of tasks and is related to number of hours or tasks remaining in the sprint
     horizontal axes shows the number of days in the sprint
     
     sprint backlog is the set of items the development team will work on in a sprint to deliver a increment
@@ -180,5 +182,23 @@ advantage:
     scrum's artifacts represent work or value to provide transparency and opportunities for inspection and adaptation. artifact defined by scrum are 
     specifically designed to maximize transparency of key information so that everybody has the same understanding of the artifact. 
  
-   
+    product backlog
+    the product owner is responsible for the product backlog, including, availability, and ordering. 
+    producht backlog refinement is the act of adding detail, estimates, and order to items in the product backlog.
+    refining make sure the items are "ready" for planning
+    ready means stories are clear to the team and small enough to be completed in one sprint using the team's definition of "done"
+    
+    monitoring progress
+    it doesnt have to be done by the release burndown. the product owner can also use other methodes
+    
+    the sprint backlog
+    is the set product backlog items selected for the sprint, plus a plan for delivering the product increment and realizing the sprint goal
+    consists of stories + the tasks      plus a plan for delicering a product increment and realizing the sprint goal.
+    only the development team can change its sprint backlog during a sprint. they negotiate this with the product owner and work togheter.
+    the sprint backlog needs to include one improvement from the sprint retrospective with regards to the team works. to ensure continuous improvement. 
+    
+    the increment 
+    is a releasable product
+    
+    
    
